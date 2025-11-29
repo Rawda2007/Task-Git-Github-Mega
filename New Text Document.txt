@@ -1,0 +1,16 @@
+Add New Branch
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Tasks Mega\Task Git & Github (master)
+λ git checkout -b New_Branch
+Switched to a new branch 'New_Branch'
+
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Tasks Mega\Task Git & Github (New_Branch)
+λ git status
+On branch New_Branch
+nothing to commit, working tree clean
+
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Tasks Mega\Task Git & Github (New_Branch)
+λ git add .
+
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Tasks Mega\Task Git & Github (New_Branch)
+λ git status
+On branch New_Branch
